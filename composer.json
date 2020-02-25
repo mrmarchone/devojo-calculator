@@ -1,0 +1,14 @@
+{
+    "name": "devojo/calculator",
+    "description": "this package for some Hi",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrmarchone",
+            "email": "mrmarchone@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
